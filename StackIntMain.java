@@ -4,7 +4,12 @@ class StackIntMain1
 	{
 		StackInt s1 = new StackInt();
 		
-		// Call the methods here....
+		s1.push (8) ;
+		s1.push (5) ;
+		s1.push (3) ;
+		s1.push (1) ;
+		s1.push (4) ;
+		s1.push (2) ;
 		
 	}
 }
