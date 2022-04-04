@@ -1,17 +1,9 @@
-class StackInt {
-    int limit = 1000;
-    int [] myStack ;
+# StackOperations
+Download this two java files and implement the methods which are mentioned inside
+the class. Just use the basic things that I have taught you in the lectures.  
+In the next lectures you will be asked to share and explain the codes.
 
-	private int pointer ;
-
-	public StackInt () {
-		myStack = new int[limit];
-		pointer = 0 ;
-	}
-
-    public int peek () {
-        return myStack [pointer] ;
-    }
+## Interface to implement
 
     // Insert elements
     public void push(int element) {
@@ -22,7 +14,7 @@ class StackInt {
     // Remove elements
     public int pop() {
 		pointer -- ;
-		return myStack [pointer] ;
+		return myStack [pointer+1] ;
     }
 
     // Check whether the stack is full
@@ -34,4 +26,3 @@ class StackInt {
     public boolean isEmpty() {
         return pointer == 0 ;
     }
-}
