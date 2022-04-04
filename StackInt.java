@@ -16,7 +16,7 @@ class StackInt {
 		pointer ++ ;
     }
 
-    //Remeove elements
+    //Remove elements
     public int pop() {
 		pointer -- ;
 		return myStack [pointer+1] ;
