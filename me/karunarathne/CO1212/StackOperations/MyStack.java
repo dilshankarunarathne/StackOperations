@@ -27,6 +27,7 @@ public class MyStack <T> implements StackIn {
     public Object pop () {
         pointer -- ;
         T value = (baseList.get(pointer)) ;
+        baseList.remove(pointer) ;
         return value;
     }
 
