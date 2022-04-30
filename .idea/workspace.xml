@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -79,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649064378442</updated>
       <workItem from="1649064389349" duration="3847000" />
-      <workItem from="1651312216120" duration="1391000" />
+      <workItem from="1651312216120" duration="1721000" />
     </task>
     <task id="LOCAL-00001" summary="Added my implementations">
       <created>1649066054857</created>
