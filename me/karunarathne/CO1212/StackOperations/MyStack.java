@@ -14,7 +14,7 @@ public class MyStack <T> implements StackIn {
 
     @Override
     public T peek () {
-        return (T) (baseList.get (pointer)) ;
+        return (T) (baseList.get (-- pointer)) ;
     }
 
     @Override
