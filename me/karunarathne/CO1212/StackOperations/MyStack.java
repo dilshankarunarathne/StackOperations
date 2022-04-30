@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MyStack <T> implements StackIn {
-    List <Node <T>> baseList ;
+    List <T> baseList ;
     int pointer ;
 
     public MyStack() {
@@ -32,17 +32,5 @@ public class MyStack <T> implements StackIn {
     @Override
     public boolean isEmpty () {
         return pointer==0 ;
-    }
-
-    class Node <Y> {
-        Y object ;
-
-        public Node(Y object) {
-            this.object = object;
-        }
-
-        public Y getObject() {
-            return object;
-        }
     }
 }
