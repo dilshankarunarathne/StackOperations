@@ -33,7 +33,7 @@ public class MyStack <T> implements StackIn {
     }
 
     @Override
-    public boolean isEmpty() {
+    public boolean isEmpty () {
         return false;
     }
 
