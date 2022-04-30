@@ -1,7 +1,7 @@
 package me.karunarathne.CO1212.StackOperations;
 
-public interface StackIn {
-    public int peek () ;
+public interface StackIn <T> {
+    public T peek () ;
 
     public void push (int element) ;
 
