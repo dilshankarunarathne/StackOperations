@@ -26,7 +26,7 @@ public class MyStack <T> implements StackIn {
     @Override
     public Object pop () {
         pointer -- ;
-        return baseList.get (pointer) ;
+        return (T) (baseList.get (pointer)) ;
     }
 
     @Override
