@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5543b024-e510-4eeb-96c8-4201d824a46e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/me/karunarathne/CO1212/StackOperations/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/me/karunarathne/CO1212/StackOperations/MyStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StackOperations/me/karunarathne/CO1212/StackOperations/MyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StackOperations/me/karunarathne/CO1212/StackOperations/MyStack.class" afterDir="false" />
-    </list>
+    <list default="true" id="5543b024-e510-4eeb-96c8-4201d824a46e" name="Changes" comment="Created README" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649064378442</updated>
       <workItem from="1649064389349" duration="3847000" />
-      <workItem from="1651312216120" duration="2026000" />
+      <workItem from="1651312216120" duration="2077000" />
     </task>
     <task id="LOCAL-00001" summary="Added my implementations">
       <created>1649066054857</created>
