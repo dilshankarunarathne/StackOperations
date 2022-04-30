@@ -23,7 +23,7 @@ public class MyStack <T> implements StackIn {
     }
 
     @Override
-    public Object pop() {
+    public Object pop () {
         return null;
     }
 
