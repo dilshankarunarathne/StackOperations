@@ -3,7 +3,7 @@ package me.karunarathne.CO1212.StackOperations;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MyStack <T> {
+public class MyStack <T> implements StackIn {
     List <Node <T>> baseList ;
     int pointer ;
 
@@ -12,6 +12,30 @@ public class MyStack <T> {
         pointer = 0 ;
     }
 
+    @Override
+    public Object peek() {
+        return null;
+    }
+
+    @Override
+    public void push(Object element) {
+
+    }
+
+    @Override
+    public Object pop() {
+        return null;
+    }
+
+    @Override
+    public boolean isFull() {
+        return false;
+    }
+
+    @Override
+    public boolean isEmpty() {
+        return false;
+    }
 
 
     class Node <Y> {
