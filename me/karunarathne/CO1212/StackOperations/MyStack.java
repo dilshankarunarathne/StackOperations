@@ -9,6 +9,7 @@ public class MyStack <T> {
 
     public MyStack() {
         baseList = new ArrayList<>() ;
+        pointer = 0 ;
     }
 
     class Node <T> {
