@@ -36,8 +36,7 @@ public class MyStack <T> implements StackIn {
     public boolean isEmpty () {
         return false;
     }
-
-
+    
     class Node <Y> {
         Y object ;
 
