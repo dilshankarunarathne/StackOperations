@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5543b024-e510-4eeb-96c8-4201d824a46e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/StackInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/StackInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/me/karunarathne/CO1212/StackOperations/MyStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +11,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649064378442</updated>
       <workItem from="1649064389349" duration="3847000" />
-      <workItem from="1651312216120" duration="374000" />
+      <workItem from="1651312216120" duration="760000" />
     </task>
     <task id="LOCAL-00001" summary="Added my implementations">
       <created>1649066054857</created>
@@ -78,6 +85,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
