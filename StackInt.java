@@ -10,7 +10,9 @@ class StackInt {
 	}
 
     public int peek () {
-        return myStack [pointer] ;
+        int value = myStack [-- pointer] ;
+        pointer ++ ;
+        return value ;
     }
 
     // Insert elements
