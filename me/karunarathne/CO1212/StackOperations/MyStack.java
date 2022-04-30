@@ -19,7 +19,7 @@ public class MyStack <T> implements StackIn {
 
     @Override
     public void push (Object element) {
-        baseList.add (new Node<T>((T) element)) ;
+        baseList.add ((T) element) ;
         pointer ++ ;
     }
 
