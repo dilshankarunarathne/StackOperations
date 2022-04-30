@@ -13,7 +13,5 @@ public interface StackIn {
     public boolean isFull() ;
 
     // Check whether the stack is empty
-    public boolean isEmpty() {
-        return pointer == 0 ;
-    }
+    public boolean isEmpty() ;
 }
