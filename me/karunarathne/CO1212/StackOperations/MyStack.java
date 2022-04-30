@@ -34,9 +34,9 @@ public class MyStack <T> implements StackIn {
 
     @Override
     public boolean isEmpty () {
-        return false;
+        return pointer==0 ;
     }
-    
+
     class Node <Y> {
         Y object ;
 
