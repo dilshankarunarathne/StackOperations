@@ -28,7 +28,7 @@ public class MyStack <T> implements StackIn {
     }
 
     @Override
-    public boolean isFull() {
+    public boolean isFull () {
         return false;
     }
 
