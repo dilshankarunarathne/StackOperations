@@ -8,7 +8,7 @@ public class MyStack <T> {
     int pointer ;
 
     public MyStack() {
-        baseList = baseList;
+        baseList = new ArrayList<>() ;
     }
 
     class Node <T> {
