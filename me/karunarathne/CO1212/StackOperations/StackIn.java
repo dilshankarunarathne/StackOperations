@@ -7,7 +7,6 @@ public interface StackIn {
 
     public int pop() ;
 
-    // Check whether the stack is full
     public boolean isFull() ;
 
     // Check whether the stack is empty
