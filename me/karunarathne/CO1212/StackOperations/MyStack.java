@@ -28,11 +28,6 @@ public class MyStack <T> implements StackIn {
     }
 
     @Override
-    public boolean isFull () {
-        return false;
-    }
-
-    @Override
     public boolean isEmpty () {
         return pointer==0 ;
     }
