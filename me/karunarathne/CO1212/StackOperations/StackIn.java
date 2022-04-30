@@ -5,7 +5,7 @@ public interface StackIn <T> {
 
     public void push (int element) ;
 
-    public int pop () ;
+    public T pop () ;
 
     public boolean isFull () ;
 
