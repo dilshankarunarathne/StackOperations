@@ -7,7 +7,5 @@ public interface StackIn <T> {
 
     public T pop () ;
 
-    public boolean isFull () ;
-
     public boolean isEmpty () ;
 }
