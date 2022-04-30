@@ -4,10 +4,7 @@ public interface StackIn {
     public int peek () ;
 
     // Insert elements
-    public void push(int element) {
-        myStack [pointer] = element ;
-        pointer ++ ;
-    }
+    public void push(int element) ;
 
     // Remove elements
     public int pop() {

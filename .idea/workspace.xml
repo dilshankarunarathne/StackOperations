@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5543b024-e510-4eeb-96c8-4201d824a46e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/me/karunarathne/CO1212/StackOperations/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/me/karunarathne/CO1212/StackOperations/StackIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/me/karunarathne/CO1212/StackOperations/StackIn.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -64,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649064378442</updated>
       <workItem from="1649064389349" duration="3847000" />
-      <workItem from="1651312216120" duration="760000" />
+      <workItem from="1651312216120" duration="1065000" />
     </task>
     <task id="LOCAL-00001" summary="Added my implementations">
       <created>1649066054857</created>
