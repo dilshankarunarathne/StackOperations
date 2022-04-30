@@ -7,10 +7,7 @@ public interface StackIn {
     public void push(int element) ;
 
     // Remove elements
-    public int pop() {
-        pointer -- ;
-        return myStack [pointer] ;
-    }
+    public int pop() ;
 
     // Check whether the stack is full
     public boolean isFull() {
