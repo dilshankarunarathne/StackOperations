@@ -12,14 +12,16 @@ public class MyStack <T> {
         pointer = 0 ;
     }
 
-    class Node <T> {
-        T object ;
 
-        public Node(T object) {
+
+    class Node <Y> {
+        Y object ;
+
+        public Node(Y object) {
             this.object = object;
         }
 
-        public T getObject() {
+        public Y getObject() {
             return object;
         }
     }
