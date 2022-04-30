@@ -13,12 +13,12 @@ public class MyStack <T> implements StackIn {
     }
 
     @Override
-    public Object peek() {
+    public Object peek () {
         return null;
     }
 
     @Override
-    public void push(Object element) {
+    public void push (Object element) {
 
     }
 
